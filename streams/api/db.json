@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "First stream",
+      "description": "This is first stream",
+      "id": 1
+    },
+    {
+      "title": "PVB vs SKT",
+      "description": "Best match ever",
+      "id": 2
+    },
+    {
+      "title": "PVB vs EVOS",
+      "description": "Best match ever in Vietnam",
+      "userId": "102081237336666869850",
+      "id": 3
+    },
+    {
+      "title": "PVB vs VEGA",
+      "description": "ahiah",
+      "userId": "102081237336666869850",
+      "id": 4
+    },
+    {
+      "title": "A vs B vs C",
+      "description": "hihi",
+      "userId": "102081237336666869850",
+      "id": 5
+    },
+    {
+      "title": "Best stream ever",
+      "description": "ahihi hihi",
+      "id": 6
+    }
+  ]
+}
